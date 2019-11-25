@@ -1,0 +1,42 @@
+body {
+  color: #CFCEDE;
+  font-family: 'Big Shoulders Text', cursive;
+  margin: 10px;
+}
+div{
+  min-height: 10vh;
+  width: 85vw;
+}
+h1, h2{
+  text-align: center;
+}
+
+h1{
+  font-size: 4em;
+}
+img{
+  display: flex;
+  padding: 40px;
+  margin; 0 auto;
+  border-radius: 90px;
+}
+a{
+  color:#CFCEDE
+}
+ol{
+  padding: 0;
+  margin-bottom: 20%
+  font-size:2em;
+  display: block;
+  justify-content: space-evenly
+}
+.firstclass{
+  margin: 20px;
+  li#lower{
+    margin-top:14%
+  }
+}
+
+#blue {
+  color: blue;
+}
